@@ -1,0 +1,7 @@
+transformers
+torch 
+twilio 
+speechrecognition
+pyaudio
+numpy
+  
